@@ -1,0 +1,12 @@
+{
+  "game-intro": "Kombiniere die Zahlen, um die <strong>2048</strong> zu erhalten!",
+  "restart-button": "Neues Spiel",
+  "keep-playing-button": "Weiterspielen",
+  "retry-button": "Nochmal versuchen",
+  "game-won": "Du hast gewonnen!",
+  "game-over": "Spiel vorbei!",
+  "how-to-play": "Spielanleitung:",
+  "game-explanation": "Benutze deine <strong>Pfeiltasten</strong>, um die Kacheln zu bewegen. Wenn zwei Kacheln mit derselben Zahl sich ber\u00fchren, <strong>verschmelzen sie zu einer!</strong>",
+  "score-label": "Punkte",
+  "best-label": "Beste"
+}

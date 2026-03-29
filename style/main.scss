@@ -107,11 +107,11 @@ h1.title {
 }
 
 .score-container:after {
-  content: "Score";
+  content: attr(data-label);
 }
 
 .best-container:after {
-  content: "Best";
+  content: attr(data-label);
 }
 
 p {

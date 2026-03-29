@@ -1,0 +1,12 @@
+{
+  "game-intro": "Join the numbers and get to the <strong>2048 tile!</strong>",
+  "restart-button": "New Game",
+  "keep-playing-button": "Keep going",
+  "retry-button": "Try again",
+  "game-won": "You win!",
+  "game-over": "Game over!",
+  "how-to-play": "How to play:",
+  "game-explanation": "Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>",
+  "score-label": "Score",
+  "best-label": "Best"
+}

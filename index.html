@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>2048</title>
@@ -21,22 +21,22 @@
     <div class="heading">
       <h1 class="title">2048</h1>
       <div class="scores-container">
-        <div class="score-container">0</div>
-        <div class="best-container">0</div>
+        <div class="score-container" data-i18n-label="score-label" data-label="Score">0</div>
+        <div class="best-container" data-i18n-label="best-label" data-label="Best">0</div>
       </div>
     </div>
 
     <div class="above-game">
-      <p class="game-intro">Join the numbers and get to the <strong>2048 tile!</strong></p>
-      <a class="restart-button">New Game</a>
+      <p class="game-intro" data-i18n="game-intro">Join the numbers and get to the <strong>2048 tile!</strong></p>
+      <a class="restart-button" data-i18n="restart-button">New Game</a>
     </div>
 
     <div class="game-container">
       <div class="game-message">
         <p></p>
         <div class="lower">
-	        <a class="keep-playing-button">Keep going</a>
-          <a class="retry-button">Try again</a>
+	        <a class="keep-playing-button" data-i18n="keep-playing-button">Keep going</a>
+          <a class="retry-button" data-i18n="retry-button">Try again</a>
         </div>
       </div>
 
@@ -73,7 +73,7 @@
     </div>
 
     <p class="game-explanation">
-      <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>
+      <strong class="important" data-i18n="how-to-play">How to play:</strong> <span data-i18n="game-explanation">Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong></span>
     </p>
     <hr>
     <p>
@@ -88,6 +88,7 @@
   <script src="js/bind_polyfill.js"></script>
   <script src="js/classlist_polyfill.js"></script>
   <script src="js/animframe_polyfill.js"></script>
+  <script src="js/i18n.js"></script>
   <script src="js/keyboard_input_manager.js"></script>
   <script src="js/html_actuator.js"></script>
   <script src="js/grid.js"></script>
