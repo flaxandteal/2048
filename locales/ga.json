@@ -7,5 +7,6 @@
     "game-over": "Cluiche thart!",
     "keep-playing-button": "Lean ort",
     "retry-button": "Bain triail as arís",
-    "game-intro": "Cuir na huimhreacha le chéile agus gabh go dtí 2048"
+    "game-intro": "Cuir na huimhreacha le chéile agus gabh go dtí 2048",
+    "game-explanation": "Bain úsaid as do <strong>saigheadeochracha</strong> chun na tíleanna a bhogadh. Nuair a thagann dhá thíl leis an uimhir cheanna le chéile, <strong>suimníonn siad!</strong>."
 }
