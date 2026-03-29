@@ -1,3 +1,8 @@
 {
-    "restart-button": "Cluiche Nua"
+    "restart-button": "Cluiche Nua",
+    "game-won": "Bhain tú!",
+    "best-label": "Is fearr",
+    "score-label": "Scór",
+    "how-to-play": "Cén dóigh a imirt:",
+    "game-over": "Cluiche thart!"
 }
