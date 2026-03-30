@@ -1,6 +1,6 @@
 {
     "restart-button": "Cluiche Nua",
-    "game-won": "Bhain tú!",
+    "game-won": "Bhuaigh tú!",
     "best-label": "Scór is fearr",
     "score-label": "Scór",
     "how-to-play": "Cén dóigh a imirt:",
@@ -8,5 +8,5 @@
     "keep-playing-button": "Lean ort",
     "retry-button": "Bain triail as arís",
     "game-intro": "Cuir na huimhreacha le chéile agus gabh chuig <strong>tíl 2048!</strong>",
-    "game-explanation": "Bain úsaid as do <strong>saigheadeochracha</strong> chun na tíleanna a bhogadh. Nuair a thagann dhá thíl leis an uimhir cheanna le chéile, <strong>suimíonn siad!</strong>."
+    "game-explanation": "Bain úsáid as <strong>d'eochracha saighde</strong> chun na tíleanna a bhogadh. Nuair a thagann dhá thíl leis an uimhir chéanna le chéile, <strong>suimíonn siad!</strong>."
 }
