@@ -1,12 +1,12 @@
 {
-  "game-intro": "Combinez les chiffres et obtenez la <strong>tuile 2048 !</strong>",
-  "restart-button": "Nouveau Jeu",
-  "keep-playing-button": "Continuer",
-  "retry-button": "R\u00e9essayer",
-  "game-won": "Vous gagnez !",
-  "game-over": "Partie termin\u00e9e !",
-  "how-to-play": "Comment jouer :",
-  "game-explanation": "Utilisez vos <strong>touches fl\u00e9ch\u00e9es</strong> pour d\u00e9placer les tuiles. Quand deux tuiles avec le m\u00eame nombre se touchent, elles <strong>fusionnent en une seule !</strong>",
-  "score-label": "Score",
-  "best-label": "Meilleur"
+    "game-intro": "Combinez les chiffres et obtenez la <strong>tuile 2048 !</strong>",
+    "restart-button": "Nouveau Jeu",
+    "keep-playing-button": "Continuer",
+    "retry-button": "Réessayer",
+    "game-won": "Vous gagnez !",
+    "game-over": "Partie terminée !",
+    "how-to-play": "Comment jouer :",
+    "game-explanation": "Utilisez vos <strong>touches fléchées</strong> pour déplacer les tuiles. Quand deux tuiles avec le même nombre se touchent, elles <strong>fusionnent en une seule !</strong>",
+    "score-label": "Score",
+    "best-label": "Meilleur"
 }
