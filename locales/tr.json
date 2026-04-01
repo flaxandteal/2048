@@ -1,1 +1,10 @@
-{}
+{
+    "restart-button": "Yeni Oyun",
+    "keep-playing-button": "Devam et",
+    "retry-button": "Yeniden deneyin",
+    "game-won": "Kazandın!",
+    "game-over": "Oyun bitti!",
+    "how-to-play": "Nasıl oynanır:",
+    "game-explanation": "<strong>Ok tuşlarını</strong> kullanarak taşları hareket ettirin. Aynı numaraya sahip iki taş birbirine değdiğinde <strong>tek bir taş </strong>haline gelir!",
+    "score-label": "Puan"
+}
