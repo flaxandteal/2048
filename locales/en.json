@@ -8,5 +8,7 @@
   "how-to-play": "How to play:",
   "game-explanation": "Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>",
   "score-label": "Score",
-  "best-label": "Best"
+  "best-label": "Best",
+  "copy-warning": "<note>Note:</note> This site is <emph>not</emph> the official version of 2048, but it only differs in translation strings. You can play the official version on your phone via <official-site>http://git.io/2048.</official-site> All other apps or sites are derivatives (such as this one) or fakes, and should be used with caution.",
+  "created-by": "Created by <author>Gabriele Cirulli.</author> Based on <source>1024 by Veewo Studio</source> and conceptually similar to <inspiration>Threes by Asher Vollmer.</inspiration>"
 }

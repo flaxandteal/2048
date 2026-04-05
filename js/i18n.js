@@ -1,3 +1,25 @@
+// Semantic tag vocabulary for translatable strings.
+// Translators preserve these tags verbatim; real HTML (URLs, classes,
+// attributes) lives here so it stays out of the locale files.
+var I18N_TAGS = {
+  "note":          ['<strong class="important">', "</strong>"],
+  "emph":          ["<strong>", "</strong>"],
+  "official-site": ['<a href="http://git.io/2048">', "</a>"],
+  "author":        ['<a href="http://gabrielecirulli.com" target="_blank">', "</a>"],
+  "source":        ['<a href="https://itunes.apple.com/us/app/1024!/id823499224" target="_blank">', "</a>"],
+  "inspiration":   ['<a href="http://asherv.com/threes/" target="_blank">', "</a>"]
+};
+
+function expandI18nTags(str) {
+  for (var tag in I18N_TAGS) {
+    if (!I18N_TAGS.hasOwnProperty(tag)) continue;
+    var esc = tag.replace(/[-/\\^$*+?.()|[\]{}]/g, "\\$&");
+    str = str.replace(new RegExp("<" + esc + ">", "g"), I18N_TAGS[tag][0]);
+    str = str.replace(new RegExp("</" + esc + ">", "g"), I18N_TAGS[tag][1]);
+  }
+  return str;
+}
+
 function I18n() {
   this.locale = this.detectLocale();
   this.translations = {};
@@ -56,7 +78,8 @@ I18n.prototype.load = function (callback) {
 };
 
 I18n.prototype.t = function (key) {
-  return this.translations[key] || key;
+  var value = this.translations[key];
+  return value ? expandI18nTags(value) : key;
 };
 
 I18n.prototype.apply = function () {
@@ -68,7 +91,7 @@ I18n.prototype.apply = function () {
     var key = elements[i].getAttribute("data-i18n");
     var translation = self.translations[key];
     if (translation) {
-      elements[i].innerHTML = translation;
+      elements[i].innerHTML = expandI18nTags(translation);
     }
   }
 
@@ -78,7 +101,7 @@ I18n.prototype.apply = function () {
     var labelKey = labelElements[j].getAttribute("data-i18n-label");
     var labelTranslation = self.translations[labelKey];
     if (labelTranslation) {
-      labelElements[j].setAttribute("data-label", labelTranslation);
+      labelElements[j].setAttribute("data-label", expandI18nTags(labelTranslation));
     }
   }
 
