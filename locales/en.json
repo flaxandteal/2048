@@ -1,4 +1,5 @@
 {
+  "language-name": "English",
   "game-intro": "Join the numbers and get to the <strong>2048 tile!</strong>",
   "restart-button": "New Game",
   "keep-playing-button": "Keep going",
@@ -10,5 +11,6 @@
   "score-label": "Score",
   "best-label": "Best",
   "copy-warning": "<note>Note:</note> This site is <emph>not</emph> the official version of 2048, but it only differs in translation strings. You can play the official version on your phone via <official-site>http://git.io/2048.</official-site> All other apps or sites are derivatives (such as this one) or fakes, and should be used with caution.",
+  "translations": "This variant has experimental, community-developed, work-in-progress translations - see <weblate>this Weblate project</weblate> for more details.",
   "created-by": "Created by <author>Gabriele Cirulli.</author> Based on <source>1024 by Veewo Studio</source> and conceptually similar to <inspiration>Threes by Asher Vollmer.</inspiration>"
 }

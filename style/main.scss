@@ -468,6 +468,28 @@ hr {
   float: right;
 }
 
+.language-bar {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.language-switcher {
+  font-family: inherit;
+  font-size: 14px;
+  color: $text-color;
+  background: transparent;
+  border: 1px solid lighten($text-color, 40%);
+  border-radius: 3px;
+  padding: 4px 8px;
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    border-color: $text-color;
+    outline: none;
+  }
+}
+
 .game-explanation {
   margin-top: 50px;
 }

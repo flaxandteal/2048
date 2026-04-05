@@ -1,0 +1,41 @@
+[
+  {
+    "code": "en",
+    "name": "English"
+  },
+  {
+    "code": "de",
+    "name": "Deutsch"
+  },
+  {
+    "code": "es",
+    "name": "Español"
+  },
+  {
+    "code": "fr",
+    "name": "Français"
+  },
+  {
+    "code": "ga",
+    "name": "Gaeilge"
+  },
+  {
+    "code": "pt_BR",
+    "name": "Português (Brasil)",
+    "family": "Português"
+  },
+  {
+    "code": "sco_ulster",
+    "name": "Ulstèr-Scotch (test)",
+    "family": "Scots",
+    "hidden": true
+  },
+  {
+    "code": "tr",
+    "name": "Türkçe"
+  },
+  {
+    "code": "uk",
+    "name": "Українська"
+  }
+]

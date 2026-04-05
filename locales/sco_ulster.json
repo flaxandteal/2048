@@ -1,0 +1,17 @@
+{
+    "language-name": "Ulstèr-Scotch (test)",
+    "language-family-name": "Scots",
+    "game-intro": "Pit tha nummers thegither an win tae tha <strong>2048 tile!</strong>",
+    "restart-button": "New Game",
+    "keep-playing-button": "Houl on",
+    "retry-button": "Try agane",
+    "game-won": "Ye'v wun!",
+    "game-over": "Game ower!",
+    "how-to-play": "Hoo tae spoart:",
+    "game-explanation": "Uise yer <strong>arra keys</strong> tae shïft tha tiles. Whan twa tiles wi tha yin nummer touch, the' <strong>rin thegither intae yin!</strong>",
+    "score-label": "Score",
+    "best-label": "Best",
+    "copy-warning": "<note>Note:</note> Thïs steid is <emph>no</emph> tha offeecial version o 2048, but it's only tha translation strings that's dïffrent. Ye can play tha offeecial version on yer phone at <official-site>http://git.io/2048.</official-site> Aa ither aps or steids is taen frae thïs yin (lake thïs yin) or's fakes, an shud be uised wi tak tent.",
+    "translations": "Thïs variant haes tryin-oot, fowk-made, no-finisht-yit translations - see <weblate>thïs Weblate project</weblate> fur mair on it.",
+    "created-by": "Makkit bi <author>Gabriele Cirulli.</author> Biggit on <source>1024 bi Veewo Studio</source> an gye lake <inspiration>Threes bi Asher Vollmer</inspiration> in notion."
+}
