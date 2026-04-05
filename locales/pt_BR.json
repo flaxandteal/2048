@@ -1,1 +1,12 @@
-{}
+{
+    "restart-button": "Novo Jogo",
+    "keep-playing-button": "Continue indo",
+    "retry-button": "Tente novamente",
+    "game-won": "Você venceu!",
+    "game-over": "Fim de jogo!",
+    "how-to-play": "Como jogar:",
+    "game-explanation": "Use as <strong>setas</strong> para mover os ladrilhos. Quando dois ladrilhos com o mesmo número se encostarem, eles se <strong>fundem num só!</strong>",
+    "score-label": "Pontuação",
+    "best-label": "Melhor",
+    "game-intro": "Junte os números e atinja o ladrilho <strong>2048!</strong>"
+}
