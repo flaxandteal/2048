@@ -1,1 +1,12 @@
-{}
+{
+    "game-intro": "Combina los números y obten el <strong>bloque 2048!</strong>",
+    "restart-button": "Juego nuevo",
+    "keep-playing-button": "Continuar",
+    "retry-button": "Volver a intentar",
+    "game-won": "Ganaste!",
+    "game-over": "Partida finalizada!",
+    "how-to-play": "Como jugar:",
+    "game-explanation": "Usatus <strong>flechas de dirección</strong> para mover los bloques. Cuando dos bloques con el mismo número se tocan, se <strong>unen en uno solo!</strong>",
+    "score-label": "Puntuación",
+    "best-label": "Mejor"
+}
