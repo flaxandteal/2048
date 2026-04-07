@@ -1,6 +1,6 @@
 {
     "language-name": "Español",
-    "game-intro": "Combina los números y obten el <strong>bloque 2048!</strong>",
+    "game-intro": "¡Combina los números y obtén el <strong>bloque 2048!</strong>",
     "restart-button": "Juego nuevo",
     "keep-playing-button": "Continuar",
     "retry-button": "Volver a intentar",
@@ -9,5 +9,8 @@
     "how-to-play": "Como jugar:",
     "game-explanation": "Usatus <strong>flechas de dirección</strong> para mover los bloques. Cuando dos bloques con el mismo número se tocan, se <strong>unen en uno solo!</strong>",
     "score-label": "Puntuación",
-    "best-label": "Mejor"
+    "best-label": "Mejor",
+    "copy-warning": "<note>Note:</note> Este sitio <emph>no</emph> es la versión oficial de 2048, pero solo difiere en cadenas de traducción. Puede reproducir la versión oficial en su teléfono a través de <official-site>http://git.io/2048.</official-site> Todas las otras aplicaciones o sitios son derivadas (tales como ésta) o falsas, y serían utilizadas con precaución.",
+    "translations": "Esta variante es experimental, desarrollada comúnmente, traducciones en proceso; consulte <weblate>este proyecto de Weblate</weblate> para más detalles.",
+    "created-by": "Creado por <author>Gabriele Cirulli.</author> Basado en <source>1024 por Veewo Studio</source> y conceptualmente similar a <inspiration>Threes por Asher Vollmer.</inspiration>"
 }
