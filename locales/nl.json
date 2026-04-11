@@ -1,1 +1,16 @@
-{}
+{
+    "language-name": "Engels",
+    "game-intro": "Voeg de nummers samen en kom bij de <strong>2048 tegel!</strong>",
+    "restart-button": "Nieuw spel",
+    "keep-playing-button": "Blijven doorgaan",
+    "retry-button": "Probeer opnieuw",
+    "game-won": "U wint!",
+    "game-over": "Spel afgelopen!",
+    "how-to-play": "Hoe te spelen:",
+    "game-explanation": "Gebruik je <strong> pijltjestoetsen</strong> om de tegels te bewegen. Wanneer twee tegels met hetzelfde nummer elkaar raken, worden <strong> ze samengevoegd tot één tegel!</strong>",
+    "score-label": "Score",
+    "best-label": "Beste",
+    "copy-warning": "<note>Notitie:</note> Deze site is <emph>niet</emph> de officiële versie van 2048, maar het verschilt alleen maar in vertalingen. Je kan de officiële versie op je telefoon spelen via <official-site>http://git.io/2048.</official-site> Alle andere apps zijn afgeleid (zoals deze) of nep, en moeten worden gebruikt met voorzichtigheid.",
+    "translations": "Deze variant is experimenteel, gemeenschap-ontwikkeld, met vertalingen in onderhoud - zie <weblate>dit Weblate project</weblate> voor meer details.",
+    "created-by": "Gemaakt door <author>Gabriele Cirulli.</author> Gebaseerd op <source>1024 door Veewo Studio</source> en is conceptueel vergelijkbaar met <inspiration>Threes door Asher Vollmer.</inspiration>"
+}
