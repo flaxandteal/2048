@@ -1,1 +1,9 @@
-{}
+{
+    "language-name": "Italiano",
+    "restart-button": "Nuova Partita",
+    "keep-playing-button": "Continua",
+    "retry-button": "Riprova",
+    "game-won": "Hai vinto!",
+    "how-to-play": "Come si gioca:",
+    "score-label": "Punti"
+}
