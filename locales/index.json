@@ -20,9 +20,21 @@
     "name": "Gaeilge"
   },
   {
+    "code": "hi",
+    "name": "hi"
+  },
+  {
+    "code": "nl",
+    "name": "Engels"
+  },
+  {
     "code": "pt_BR",
     "name": "Português (Brasil)",
     "family": "Português"
+  },
+  {
+    "code": "ru",
+    "name": "Русский"
   },
   {
     "code": "sco_ulster",

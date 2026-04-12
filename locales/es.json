@@ -7,7 +7,7 @@
     "game-won": "Ganaste!",
     "game-over": "Partida finalizada!",
     "how-to-play": "Como jugar:",
-    "game-explanation": "Usatus <strong>flechas de dirección</strong> para mover los bloques. Cuando dos bloques con el mismo número se tocan, se <strong>unen en uno solo!</strong>",
+    "game-explanation": "Usa tus <strong>flechas de dirección</strong> para mover los bloques. Cuando dos bloques con el mismo número se tocan, se <strong>unen en uno solo!</strong>",
     "score-label": "Puntuación",
     "best-label": "Mejor",
     "copy-warning": "<note>Note:</note> Este sitio <emph>no</emph> es la versión oficial de 2048, pero solo difiere en cadenas de traducción. Puede reproducir la versión oficial en su teléfono a través de <official-site>http://git.io/2048.</official-site> Todas las otras aplicaciones o sitios son derivadas (tales como ésta) o falsas, y serían utilizadas con precaución.",

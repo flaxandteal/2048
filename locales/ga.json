@@ -7,10 +7,10 @@
     "how-to-play": "Cén dóigh a imirt:",
     "game-over": "Cluiche thart!",
     "keep-playing-button": "Lean ort",
-    "retry-button": "Bain trial as arís",
+    "retry-button": "Bain triail as arís",
     "game-intro": "Cuir na huimhreacha le chéile agus gabh chuig <strong>tíl 2048!</strong>",
     "game-explanation": "Bain úsáid as <strong>d'eochracha saighde</strong> chun na tíleanna a bhogadh. Nuair a thagann dhá thíl leis an uimhir chéanna le chéile, <strong>suimíonn siad!</strong>.",
     "copy-warning": "<note>Nóta:</note> Agus <emph>ní hé</emph> an suíomh seo an leagan oifigiúil 2048, níl ach teaghráin aistriúcháin eatarthu. Thig leat an leagan oifigiúil a imirt ar d'fhón trí <official-site>http://git.io/2048.</official-site> Gach aip nó suíomh eile atá ina dhíorthach (mar an ceann seo) nó ina bhréagearra, agus ba chóir duit aire a thabhairt agus iad in úsáid agat.",
     "created-by": "Cruthaithe ag <author>Gabriele Cirulli.</author> Bunaithe ar <source>1024 ag Veewo Studio</source> agus is cosúil le <inspiration>Threes ag Asher Vollmer</inspiration> go coincheapúil.",
-    "translations": "Tá aistriúcháin thurgnamhach phobalfhorbartha idir lámha - féach <weblate>an tionscadal Weblate seo</weblate> le tuilleadh eolais."
+    "translations": "Tá aistriúcháin thurgnamhacha phobalfhorbartha idir lámha - féach <weblate>an tionscadal Weblate seo</weblate> le tuilleadh eolais."
 }
