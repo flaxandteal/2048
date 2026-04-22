@@ -1,1 +1,16 @@
-{}
+{
+    "language-name": "Englanti",
+    "restart-button": "Uusi peli",
+    "keep-playing-button": "Jatka",
+    "retry-button": "Yritä uudestaan",
+    "game-won": "Voitit!",
+    "game-over": "Peli ohi!",
+    "how-to-play": "Kuinka pelata:",
+    "game-explanation": "Siirrä laattoja <strong>nuolinäppäimilläsi</strong>. Kun kaksi ruutua, joilla on sama numero, koskettavat, ne <strong>sulautuvat yhdeksi!</strong>",
+    "score-label": "Pisteet",
+    "best-label": "Paras",
+    "copy-warning": "<note>Huomaa:</note> Tämä sivusto <emph>ei</emph> ole vuoden 2048 virallinen versio, mutta se eroaa vain käännösjonojen osalta. Voit pelata virallista versiota puhelimellasi osoitteessa <official-site>http://git.io/2048.</official-site> Kaikki muut sovellukset tai sivustot ovat johdannaisia (kuten tämä) tai väärennöksiä, ja niitä tulee käyttää varoen.",
+    "translations": "Tässä versiossa on kokeellisia, yhteisön kehittämiä, keskeneräisiä käännöksiä – katso lisätietoja <weblate>tästä Weblate-projektista</weblate>.",
+    "created-by": "Tekijä: <author>Gabriele Cirulli.</author> Perustuu <source>Veewo Studion 1024:ään</source> ja käsitteellisesti samanlainen kuin <inspiration>Asher Vollmerin kolme.</inspiration>",
+    "game-intro": "Liity numeroihin ja pääse <strong>2048-ruutuun!</strong>"
+}
