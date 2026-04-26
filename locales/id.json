@@ -1,1 +1,16 @@
-{}
+{
+    "language-name": "Bahasa Indonesia",
+    "game-intro": "Studi Terjemahan Deskriptif\nBab ini akan menempatkan studi yang ada dalam kerangka studi terjemahan yang diusulkan oleh Holmes (1988) dan yang telah dikembangkan oleh Toury (1995) menjadi sebuah metode untuk studi terjemahan deskriptif. Bab ini akan membahas konsep norma dalam terjemahan, meninjau studi-studi deskriptif sebelumnya, dan menggambarkan bagaimana berbagai elemen dalam proses terjemahan saling terhubung dalam hubungan yang sistemis.\n1.1 'Peta' Holmes/Toury\nMakalah berpengaruh Holmes berjudul 'The Name and Nature of Translation Studies' (Holmes (1988: 67-80), versi revisi dari naskah asli tahun 1972), yang oleh Gentzler (1993: 92) digambarkan sebagai 'secara umum diterima sebagai pernyataan pendirian bidang ini', berupaya menyusun kerangka umum untuk studi terjemahan sebagai disiplin empiris. Kerangka ini kemudian disajikan oleh Toury dalam bentuk diagram sebagai berikut: ",
+    "restart-button": "Permainan Baru",
+    "keep-playing-button": "Lanjutkan",
+    "retry-button": "Coba lagi",
+    "game-won": "Kamu menang!",
+    "game-over": "Permainan selesai!",
+    "how-to-play": "Cara bermain:",
+    "game-explanation": "Gunakan <strong>tombol panah</strong> untuk menggerakkan ubin. Ketika dua ubin dengan angka yang sama bersentuhan, keduanya <strong>bergabung menjadi satu!</strong>",
+    "score-label": "Skor",
+    "best-label": "Terbaik",
+    "copy-warning": "<note>Catatan:</note> Situs ini <emph>bukan</emph> versi resmi dari 2048, tetapi hanya berbeda pada teks terjemahan. Anda dapat memainkan versi resminya di ponsel melalui <official-site>http://git.io/2048.</official-site> Semua aplikasi atau situs lain merupakan turunan (seperti situs ini) atau palsu, dan harus digunakan dengan hati-hati.",
+    "translations": "Varian ini memiliki terjemahan eksperimental yang dikembangkan oleh komunitas dan masih dalam tahap pengembangan — lihat <weblate>proyek Weblate ini</weblate> untuk informasi lebih lanjut.",
+    "created-by": "Dibuat oleh <author>Gabriele Cirulli.</author> Berdasarkan <source>1024 oleh Veewo Studio</source> dan secara konseptual serupa dengan <inspiration>Threes oleh Asher Vollmer.</inspiration>"
+}
