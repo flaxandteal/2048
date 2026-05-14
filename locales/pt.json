@@ -1,1 +1,12 @@
-{}
+{
+    "language-name": "Português",
+    "restart-button": "Novo Jogo",
+    "keep-playing-button": "Continue",
+    "retry-button": "Tente novamente",
+    "game-won": "Venceu!",
+    "game-over": "Fim do jogo!",
+    "how-to-play": "Como jogar:",
+    "game-explanation": "Use as <strong>setas</strong> para mover os ladrilhos. Quando dois ladrilhos com o mesmo número se encostarem, eles <strong>fundem-se num só!</strong>",
+    "score-label": "Pontuação",
+    "best-label": "Melhor"
+}
