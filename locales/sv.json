@@ -1,1 +1,16 @@
-{}
+{
+    "language-name": "Engelska",
+    "game-intro": "Beskrivande översättningsvetenskap\nDetta kapitel placerar den nuvarande studie inom det ramverk för översättningsvetenskap\nsom föreslogs av Holmes (1988), och som vidareutvecklades av Toury (1995) till en\nmetod för beskrivande översättningsvetenskap. Det kommer att handla om normer inom\növersättning, granskning av tidigare beskrivande studier och beskriva hur olika\ndelar av översättningsprocessen samverkar i ett systemiskt förhållande.\n1.1 Holmes/Tourys karta.\n\nHolmes inflytelserika artikel 'The Name and Nature of Translation Studies' (Holmes\n1988: 67–80), en reviderad version av originalet från 1972), vilken Gentzler (1993: 92)\nbeskriver som 'allmänt accepterad som det uttalandet som grundade ämnet', är ett försök att\netablera ett övergripande ramverk för översättningsvetenskap som en empirisk disciplin. Detta\nramverk har senare presenterats av Toury i följande diagramform:. ",
+    "restart-button": "Ny Runda",
+    "keep-playing-button": "Fortsätt",
+    "retry-button": "Försök igen",
+    "game-won": "Du vann!",
+    "game-over": "Game over!",
+    "how-to-play": "Hur man spelar:",
+    "game-explanation": "Använd <strong>piltangenterna</strong> för att flytta blocken. När två block med samma nummer rör varandra <strong> slås de ihop till ett block!</strong>",
+    "score-label": "Poäng",
+    "best-label": "Bästa",
+    "copy-warning": "<note>Notera:</note> Den här sidan är <emph>inte</emph> den officiella versionen av 2048, men den enda skillnaden är översättningssträngarna. Du kan spela den officiella versionen på din telefon på <official-site>http://git.io/2048.</official-site> Andra appar och sidor är avstickare (som den här) eller fejk och bör användas varsamt.",
+    "translations": "Denna variant har experimentella och community utvecklade översättningar som fortfarande är under utveckling ‐ se <weblate>Weblate projektet</weblate> för mer information.",
+    "created-by": "Skapat av <author>Gabriele Cirulli.</author> Baserad på <source>1024 av Veewo Studio</source> och tar inspiration från <inspiration>Threes av Asher Vollmer.</inspiration>"
+}
