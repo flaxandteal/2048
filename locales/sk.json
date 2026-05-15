@@ -1,1 +1,11 @@
-{}
+{
+    "language-name": "Angličtina",
+    "restart-button": "Nová hra",
+    "keep-playing-button": "Pokračujte",
+    "retry-button": "Skúste znovu",
+    "game-won": "Vyhrali ste!",
+    "game-over": "Hra sa skončila!",
+    "how-to-play": "Ako hrať:",
+    "score-label": "Skóre",
+    "best-label": "Najlepšie"
+}
