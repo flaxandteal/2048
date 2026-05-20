@@ -9,5 +9,8 @@
     "how-to-play": "Spielanleitung:",
     "game-explanation": "Benutze deine <strong>Pfeiltasten</strong>, um die Kacheln zu bewegen. Wenn zwei Kacheln mit derselben Zahl sich berühren, <strong>verschmelzen sie zu einer!</strong>",
     "score-label": "Punkte",
-    "best-label": "Beste"
+    "best-label": "Beste",
+    "copy-warning": "<note>Anmerkung: </note> Diese Seite ist <emph>nicht</emph> die offizielle Version von 2048, unterscheidet sich aber nur in den Übersetzungen. Du kannst die offizielle Version auf deinem Gerät spielen via <official-site>http://git.io/2048.</official-site> Alle anderen Apps oder Seiten (sowie diese hier) sind Derivate derivatives (sowie diese hier) oder Fakes, und sollten nur mit Vorsicht genutzt werden.",
+    "translations": "Diese Variante hat experimentelle, gemeinschaftlich-entwickelte, ausstehende sich in Arbeit befindende Übersetzungen - siehe:<weblate>diese Weblate Projekt</weblate> für weitere Details.",
+    "created-by": "Erstellt von <author>Gabriele Cirulli.</author> Basierend auf <source>1024 von Veewo Studio</source> und konzeptionell vergleichbar mit <inspiration>Threes von Asher Vollmer.</inspiration>"
 }
