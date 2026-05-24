@@ -1,3 +1,12 @@
 {
-    "language-name": "英语"
+    "language-name": "英语",
+    "restart-button": "新游戏",
+    "keep-playing-button": "继续",
+    "retry-button": "重新开始",
+    "game-won": "胜利！",
+    "game-over": "游戏结束！",
+    "how-to-play": "怎么玩：",
+    "game-explanation": "使用 <strong>方向键</strong> 来移动所有方块。两个相同数字的方块碰撞时会 <strong>合二为一！</strong>",
+    "score-label": "分数",
+    "best-label": "最高分"
 }
