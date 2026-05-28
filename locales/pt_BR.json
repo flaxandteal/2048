@@ -10,7 +10,7 @@
     "game-explanation": "Use as <strong>setas</strong> para mover os ladrilhos. Quando dois ladrilhos com o mesmo número se encostarem, eles se <strong>fundem num só!</strong>",
     "score-label": "Pontuação",
     "best-label": "Melhor",
-    “game-intro”: “Junte os números e chegue ao <strong>bloco 2048!</strong>”,
+    "game-intro": "Junte os números e chegue ao <strong>bloco 2048!</strong>",
     "copy-warning": "<note>Nota:</note> Este site <emph>não</emph> é a versão oficial do 2048, diferenciando-se apenas nas traduções. Você pode jogar a versão oficial no seu celular através do <official-site>http://git.io/2048</official-site>. Todos os outros aplicativos ou sites são derivados (como este) ou falsos, e devem ser usados com cautela.",
     "translations": "Esta variante possui traduções experimentais, desenvolvidas pela comunidade e ainda em fase de aprimoramento - veja <weblate>este projeto Weblate</weblate> para mais detalhes.",
     "created-by": "Criado por <author>Gabriele Cirulli.</author> Baseado em <source>1024 da Veewo Studio</source> e conceitualmente semelhante a <inspiration>Threes de Asher Vollmer.</inspiration>"

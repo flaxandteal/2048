@@ -12,5 +12,5 @@
     "copy-warning": "<note>Pastaba:</note> Ši svetainė <emph>nėra</emph> oficiali „2048“ versija, ji skiriasi tik išverstomis eilutėmis. Oficialią versiją galite žaisti savo telefone per <official-site>http://git.io/2048.</official-site> Visos kitos programėlės ar svetainės yra išvestinės (kaip ši) arba klastotės, todėl jas reikėtų naudoti atsargiai.",
     "translations": "Šiame variante naudojami eksperimentiniai, bendruomenės kuriami ir nebaigti vertimai - daugiau informacijos rasite šiame <weblate>Weblate projekte</weblate>.",
     "created-by": "Sukūrė <author>Gabriele Cirulli.</author> Pagrįsta „Veewo Studio“ sukurtu <source>1024</source> ir konceptualiai panašu į <inspiration>Asher Vollmer Threes.</inspiration>",
-    “game-intro”: “Sujunkite skaičius ir pasiekite <strong>2048 plytelę!</strong>”
+    "game-intro": "Sujunkite skaičius ir pasiekite <strong>2048 plytelę!</strong>"
 }
