@@ -20,7 +20,7 @@ namespace :locales do
   # lives in the generated manifest rather than in each locale file to avoid
   # polluting translator-facing JSON with non-string metadata that could
   # confuse Weblate's flat-JSON parser.
-  HIDDEN_LOCALES = %w[sco_ulster].freeze
+  HIDDEN_LOCALES = %w[].freeze
 
   desc "generate locales/index.json from locales/*.json for the language switcher"
   task :build do

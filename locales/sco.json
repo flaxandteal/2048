@@ -1,0 +1,17 @@
+{
+    "language-name": "Scots",
+    "language-family-name": "Scots",
+    "game-intro": "Pit the nummers thegither an win tae the <strong>2048 tile!</strong>",
+    "restart-button": "New Game",
+    "keep-playing-button": "Haud on",
+    "retry-button": "Try agane",
+    "game-won": "Ye've won!",
+    "game-over": "Game ower!",
+    "how-to-play": "Hoo tae play:",
+    "game-explanation": "Use yer <strong>arra keys</strong> tae shift the tiles. Whan twa tiles wi the same nummer touch, they <strong>rin thegither intae yin!</strong>",
+    "score-label": "Score",
+    "best-label": "Best",
+    "copy-warning": "<note>Note:</note> This steid is <emph>no</emph> the offeecial version o 2048, but it's only the translation strings that's different. Ye can play the offeecial version on yer phone at <official-site>http://git.io/2048.</official-site> Aw ither apps or steids is taen frae this yin (like this yin) or's fakes, an shoud be uised wi care.",
+    "translations": "This variant has tryin-oot, fowk-made, no-feenisht-yet translations - see <weblate>this Weblate project</weblate> for mair on it.",
+    "created-by": "Made bi <author>Gabriele Cirulli.</author> Biggit on <source>1024 bi Veewo Studio</source> an gey like <inspiration>Threes bi Asher Vollmer</inspiration> in concept."
+}

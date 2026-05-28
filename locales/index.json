@@ -33,10 +33,14 @@
     "name": "Русский"
   },
   {
-    "code": "sco_ulster",
-    "name": "Ulstèr-Scotch (test)",
-    "family": "Scots",
-    "hidden": true
+    "code": "sco",
+    "name": "Scots",
+    "family": "Scots"
+  },
+  {
+    "code": "sco_ULSTER",
+    "name": "Ulstèr-Scotch",
+    "family": "Scots"
   },
   {
     "code": "tr",
