@@ -6,6 +6,6 @@
     "game-won": "Kazandın!",
     "game-over": "Oyun bitti!",
     "how-to-play": "Nasıl oynanır:",
-    "game-explanation": "<strong>Ok tuşlarını</strong> kullanarak taşları hareket ettirin. Aynı numaraya sahip iki taş birbirine değdiğinde <strong>tek bir taş birbirine birleşir </strong>",
+    "game-explanation": "<strong>Ok tuşlarını</strong> kullanarak taşları hareket ettirin. Aynı numaraya sahip iki taş birbirine değdiğinde <strong>tek bir taşa birleşir!</strong>",
     "score-label": "Puan"
 }

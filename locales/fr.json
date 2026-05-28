@@ -1,6 +1,6 @@
 {
     "language-name": "Français",
-    "game-intro": "Etude de traduction descriptive \nCe chapitre va placer la présente étude dans le cadre des études de traduction\nproposées par Holmes (1988) et qui ont été développées par Toury (1995) en une méthode \npour des études de traduction descriptives. Il s'agira de considérer le concept de normes \nde traduction, d'examiner les études descriptives antérieures et de décrire comment les \ndifférents éléments dans le processus de traduction s'assemblent en relations systémiques.\n1.1 La \"carte\" de Holmes/Toury \nL'article marquant de Holmes \"Le nom et la nature des études de traduction\" (Holmes \n(1988 : 67-80), une version remaniée de l'initiale de 1972 ), avec Gentzler (1993 : 92) \ndécrit comme \"acceptée généralement comme la déclaration fondamentale pour le champ\"\ntente de dégager un cadre général pour les études de traduction comme une discipline \nempirique.\nCe cadre a été a été subséquemment présenté par Toury de la manière schématique suivante : ",
+    "game-intro": "Combinez les nombres pour atteindre la <strong>tuile 2048 !</strong>",
     "restart-button": "Nouveau Jeu",
     "keep-playing-button": "Continuer",
     "retry-button": "Réessayer",
@@ -10,7 +10,7 @@
     "game-explanation": "Utilisez vos <strong>touches fléchées</strong> pour déplacer les tuiles. Quand deux tuiles avec le même nombre se touchent, elles <strong>fusionnent en une seule !</strong>",
     "score-label": "Score",
     "best-label": "Meilleur",
-    "copy-warning": "<note>Note :</note> Ce site <emph>n</emph>'est pas la version officielle de 2048, mais seules les chaînes de traduction sont différentes. Vous pouvez utiliser la version officielle avec votre téléphone via <official-site>http://git.io/2048.</official-site> Toutes les autres applications ou sites sont dérivées (comme celle-ci) ou fausses, et devraient être utilisées avec prudence.",
+    "copy-warning": "<note>Note :</note> Ce site <emph>n'est pas</emph> la version officielle de 2048, mais seules les chaînes de traduction sont différentes. Vous pouvez utiliser la version officielle avec votre téléphone via <official-site>http://git.io/2048.</official-site> Toutes les autres applications ou sites sont dérivées (comme celle-ci) ou fausses, et devraient être utilisées avec prudence.",
     "translations": "Cette variante contient des traductions expérimentales, développées par la communauté, en cours de travail - voir <weblate>ce projet Weblate</weblate> pour plus d'informations.",
-    "created-by": "Créé par <author>Gabriele Cirulli.</author> D'après <source>1024 par Veewo Studio</source> et conceptuellement similaire à <inspiration>Threes by Asher Vollmer.</inspiration>"
+    "created-by": "Créé par <author>Gabriele Cirulli.</author> D'après <source>1024 par Veewo Studio</source> et conceptuellement similaire à <inspiration>Threes par Asher Vollmer.</inspiration>"
 }

@@ -1,16 +1,16 @@
 {
     "language-name": "Español",
-    "game-intro": "Estudios descriptivos de traducción\nEste capítulo sitúa el presente estudio dentro del marco de los estudios de traducción\npropuesto por Holmes (1988) y desarrollado por Toury (1995) como método para los\nestudios descriptivos de traducción. Se considerará el concepto de normas en la\ntraducción, se analizarán estudios descriptivos previos y se describirá cómo los\ndiferentes elementos del proceso de traducción se interrelacionan en un sistema.\n1.1 El «mapa» de Holmes/Toury\nEl influyente artículo de Holmes, «El nombre y la naturaleza de los estudios de traducción»\n(Holmes (1988: 67-80), una versión revisada del original de 1972), que Gentzler (1993: 92)\ndescribe como «generalmente aceptado como la declaración fundacional del campo»,\nintenta establecer un marco general para los estudios de traducción como disciplina\nempírica. Este marco ha sido presentado posteriormente por Toury de la siguiente\nmanera esquemática: ",
+    "game-intro": "¡Une los números y llega a la <strong>casilla 2048!</strong>",
     "restart-button": "Juego nuevo",
     "keep-playing-button": "Continuar",
     "retry-button": "Volver a intentar",
-    "game-won": "Ganaste!",
-    "game-over": "Partida finalizada!",
-    "how-to-play": "Como jugar:",
+    "game-won": "¡Ganaste!",
+    "game-over": "¡Partida finalizada!",
+    "how-to-play": "Cómo jugar:",
     "game-explanation": "Usa tus <strong>flechas de dirección</strong> para mover los bloques. Cuando dos bloques con el mismo número se tocan, se <strong>unen en uno solo!</strong>",
     "score-label": "Puntuación",
     "best-label": "Mejor",
-    "copy-warning": "<note>Note:</note> Este sitio <emph>no</emph> es la versión oficial de 2048, pero solo difiere en cadenas de traducción. Puede reproducir la versión oficial en su teléfono a través de <official-site>http://git.io/2048.</official-site> Todas las otras aplicaciones o sitios son derivadas (tales como ésta) o falsas, y serían utilizadas con precaución.",
+    "copy-warning": "<note>Nota:</note> Este sitio <emph>no</emph> es la versión oficial de 2048, pero solo difiere en las cadenas de traducción. Puede jugar la versión oficial en su teléfono a través de <official-site>http://git.io/2048.</official-site> Todas las demás aplicaciones o sitios son derivados (como este) o falsos, y deben ser utilizados con precaución.",
     "translations": "Esta variante es experimental, desarrollada comúnmente, traducciones en proceso; consulte <weblate>este proyecto de Weblate</weblate> para más detalles.",
     "created-by": "Creado por <author>Gabriele Cirulli.</author> Basado en <source>1024 por Veewo Studio</source> y conceptualmente similar a <inspiration>Threes por Asher Vollmer.</inspiration>"
 }
